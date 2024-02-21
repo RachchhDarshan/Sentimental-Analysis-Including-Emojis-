@@ -1,0 +1,98 @@
+index,emoji,name,group,sub_group,codepoints,is_0_1
+0,😀grinning face,grinning face,Smileys & Emotion,face-smiling,1F600,0
+1,😃grinning face with big eyes,grinning face with big eyes,Smileys & Emotion,face-smiling,1F603,0
+2,😄grinning face with smiling eyes,grinning face with smiling eyes,Smileys & Emotion,face-smiling,1F604,0
+3,😁beaming face with smiling eyes,beaming face with smiling eyes,Smileys & Emotion,face-smiling,1F601,0
+4,😆grinning squinting face,grinning squinting face,Smileys & Emotion,face-smiling,1F606,0
+5,😅grinning face with sweat,grinning face with sweat,Smileys & Emotion,face-smiling,1F605,0
+6,🤣rolling on the floor laughing,rolling on the floor laughing,Smileys & Emotion,face-smiling,1F923,0
+7,😂face with tears of joy,face with tears of joy,Smileys & Emotion,face-smiling,1F602,0
+8,🙂slightly smiling face,slightly smiling face,Smileys & Emotion,face-smiling,1F642,0
+9,🙃upside-down face,upside-down face,Smileys & Emotion,face-smiling,1F643,0
+10,😉winking face,winking face,Smileys & Emotion,face-smiling,1F609,0
+11,😊smiling face with smiling eyes,smiling face with smiling eyes,Smileys & Emotion,face-smiling,1F60A,0
+12,😇smiling face with halo,smiling face with halo,Smileys & Emotion,face-smiling,1F607,0
+13,🥰smiling face with hearts,smiling face with hearts,Smileys & Emotion,face-affection,1F970,0
+14,😍smiling face with heart-eyes,smiling face with heart-eyes,Smileys & Emotion,face-affection,1F60D,0
+15,🤩star-struck,star-struck,Smileys & Emotion,face-affection,1F929,0
+16,😘face blowing a kiss,face blowing a kiss,Smileys & Emotion,face-affection,1F618,0
+17,😗kissing face,kissing face,Smileys & Emotion,face-affection,1F617,0
+18,☺️smiling face,smiling face,Smileys & Emotion,face-affection,263A FE0F,0
+19,☺smiling face,smiling face,Smileys & Emotion,face-affection,263A,0
+20,😚kissing face with closed eyes,kissing face with closed eyes,Smileys & Emotion,face-affection,1F61A,0
+21,😙kissing face with smiling eyes,kissing face with smiling eyes,Smileys & Emotion,face-affection,1F619,0
+22,🥲smiling face with tear,smiling face with tear,Smileys & Emotion,face-affection,1F972,1
+23,😋face savoring food,face savoring food,Smileys & Emotion,face-tongue,1F60B,0
+24,😛face with tongue,face with tongue,Smileys & Emotion,face-tongue,1F61B,0
+25,😜winking face with tongue,winking face with tongue,Smileys & Emotion,face-tongue,1F61C,0
+26,🤪zany face,zany face,Smileys & Emotion,face-tongue,1F92A,1
+27,😝squinting face with tongue,squinting face with tongue,Smileys & Emotion,face-tongue,1F61D,1
+28,🤑money-mouth face,money-mouth face,Smileys & Emotion,face-tongue,1F911,0
+29,🤗hugging face,hugging face,Smileys & Emotion,face-hand,1F917,0
+30,🤭face with hand over mouth,face with hand over mouth,Smileys & Emotion,face-hand,1F92D,0
+31,🤫shushing face,shushing face,Smileys & Emotion,face-hand,1F92B,0
+32,🤔thinking face,thinking face,Smileys & Emotion,face-hand,1F914,0
+33,🤐zipper-mouth face,zipper-mouth face,Smileys & Emotion,face-neutral-skeptical,1F910,1
+34,🤨face with raised eyebrow,face with raised eyebrow,Smileys & Emotion,face-neutral-skeptical,1F928,1
+35,😐neutral face,neutral face,Smileys & Emotion,face-neutral-skeptical,1F610,1
+36,😑expressionless face,expressionless face,Smileys & Emotion,face-neutral-skeptical,1F611,1
+37,😶face without mouth,face without mouth,Smileys & Emotion,face-neutral-skeptical,1F636,1
+38,😏smirking face,smirking face,Smileys & Emotion,face-neutral-skeptical,1F60F,1
+39,😒unamused face,unamused face,Smileys & Emotion,face-neutral-skeptical,1F612,1
+40,🙄face with rolling eyes,face with rolling eyes,Smileys & Emotion,face-neutral-skeptical,1F644,1
+41,😬grimacing face,grimacing face,Smileys & Emotion,face-neutral-skeptical,1F62C,1
+42,🤥lying face,lying face,Smileys & Emotion,face-neutral-skeptical,1F925,1
+43,😌relieved face,relieved face,Smileys & Emotion,face-sleepy,1F60C,1
+44,😔pensive face,pensive face,Smileys & Emotion,face-sleepy,1F614,1
+45,😪sleepy face,sleepy face,Smileys & Emotion,face-sleepy,1F62A,1
+46,🤤drooling face,drooling face,Smileys & Emotion,face-sleepy,1F924,1
+47,😴sleeping face,sleeping face,Smileys & Emotion,face-sleepy,1F634,1
+48,😷face with medical mask,face with medical mask,Smileys & Emotion,face-unwell,1F637,1
+49,🤒face with thermometer,face with thermometer,Smileys & Emotion,face-unwell,1F912,1
+50,🤕face with head-bandage,face with head-bandage,Smileys & Emotion,face-unwell,1F915,1
+51,🤢nauseated face,nauseated face,Smileys & Emotion,face-unwell,1F922,1
+52,🤮face vomiting,face vomiting,Smileys & Emotion,face-unwell,1F92E,1
+53,🤧sneezing face,sneezing face,Smileys & Emotion,face-unwell,1F927,1
+54,🥵hot face,hot face,Smileys & Emotion,face-unwell,1F975,1
+55,🥶cold face,cold face,Smileys & Emotion,face-unwell,1F976,1
+56,🥴woozy face,woozy face,Smileys & Emotion,face-unwell,1F974,1
+57,😵dizzy face,dizzy face,Smileys & Emotion,face-unwell,1F635,1
+58,🤯exploding head,exploding head,Smileys & Emotion,face-unwell,1F92F,1
+59,🤠cowboy hat face,cowboy hat face,Smileys & Emotion,face-hat,1F920,1
+60,🥳partying face,partying face,Smileys & Emotion,face-hat,1F973,1
+61,🥸disguised face,disguised face,Smileys & Emotion,face-hat,1F978,1
+62,😎smiling face with sunglasses,smiling face with sunglasses,Smileys & Emotion,face-glasses,1F60E,11
+63,🤓nerd face,nerd face,Smileys & Emotion,face-glasses,1F913,1
+64,🧐face with monocle,face with monocle,Smileys & Emotion,face-glasses,1F9D0,1
+65,😕confused face,confused face,Smileys & Emotion,face-concerned,1F615,1
+66,😟worried face,worried face,Smileys & Emotion,face-concerned,1F61F,1
+67,🙁slightly frowning face,slightly frowning face,Smileys & Emotion,face-concerned,1F641,1
+68,☹️frowning face,frowning face,Smileys & Emotion,face-concerned,2639 FE0F,1
+69,☹frowning face,frowning face,Smileys & Emotion,face-concerned,2639,1
+70,😮face with open mouth,face with open mouth,Smileys & Emotion,face-concerned,1F62E,1
+71,😯hushed face,hushed face,Smileys & Emotion,face-concerned,1F62F,1
+72,😲astonished face,astonished face,Smileys & Emotion,face-concerned,1F632,1
+73,😳flushed face,flushed face,Smileys & Emotion,face-concerned,1F633,1
+74,🥺pleading face,pleading face,Smileys & Emotion,face-concerned,1F97A,1
+75,😦frowning face with open mouth,frowning face with open mouth,Smileys & Emotion,face-concerned,1F626,1
+76,😧anguished face,anguished face,Smileys & Emotion,face-concerned,1F627,1
+77,😨fearful face,fearful face,Smileys & Emotion,face-concerned,1F628,1
+78,😰anxious face with sweat,anxious face with sweat,Smileys & Emotion,face-concerned,1F630,1
+79,😥sad but relieved face,sad but relieved face,Smileys & Emotion,face-concerned,1F625,1
+80,😢crying face,crying face,Smileys & Emotion,face-concerned,1F622,1
+81,😭loudly crying face,loudly crying face,Smileys & Emotion,face-concerned,1F62D,1
+82,😱face screaming in fear,face screaming in fear,Smileys & Emotion,face-concerned,1F631,1
+83,😖confounded face,confounded face,Smileys & Emotion,face-concerned,1F616,1
+84,😣persevering face,persevering face,Smileys & Emotion,face-concerned,1F623,1
+85,😞disappointed face,disappointed face,Smileys & Emotion,face-concerned,1F61E,1
+86,😓downcast face with sweat,downcast face with sweat,Smileys & Emotion,face-concerned,1F613,1
+87,😩weary face,weary face,Smileys & Emotion,face-concerned,1F629,1
+88,😫tired face,tired face,Smileys & Emotion,face-concerned,1F62B,1
+89,🥱yawning face,yawning face,Smileys & Emotion,face-concerned,1F971,1
+90,😤face with steam from nose,face with steam from nose,Smileys & Emotion,face-negative,1F624,1
+91,😡pouting face,pouting face,Smileys & Emotion,face-negative,1F621,1
+92,😠angry face,angry face,Smileys & Emotion,face-negative,1F620,1
+93,🤬face with symbols on mouth,face with symbols on mouth,Smileys & Emotion,face-negative,1F92C,1
+94,😈smiling face with horns,smiling face with horns,Smileys & Emotion,face-negative,1F608,1
+95,👿angry face with horns,angry face with horns,Smileys & Emotion,face-negative,1F47F,1
+96,💀skull,skull,Smileys & Emotion,face-negative,1F480,1
